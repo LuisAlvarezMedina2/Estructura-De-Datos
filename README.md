@@ -1,6 +1,6 @@
 <center>
-  # 💻👾Estructura de Datos👾
+# 💻👾Estructura de Datos👾
 </center>
 <center>
-  ## Laboratorios || Trabajos ||Proyectos 
+## Laboratorios || Trabajos ||Proyectos 
 </center>
