@@ -11,6 +11,7 @@
   - ##### Laboratorio3 : [Repositorio Del Laboratorio 3](https://github.com/LuisAlvarezMedina2/Estructura-De-Datos/tree/main/HITO%202/Laboratorio/Laboratorio3)📁
   - ##### Laboratorio4 : [Repositorio Del Laboratorio 4](https://github.com/LuisAlvarezMedina2/Estructura-De-Datos/tree/main/HITO%202/Laboratorio/Laboratorio4)📁
   - ##### Laboratorio5 : [Repositorio Del Laboratorio 5](https://github.com/LuisAlvarezMedina2/Estructura-De-Datos/tree/main/HITO%202/Laboratorio/Laboratorio5)📁
-- #### Procesual : [Diagnostico Hito 1](https://github.com/LuisAlvarezMedina2/Estructura-De-Datos/blob/main/HITO%201/DIAGNOSTICO%20HITO%201.txt)📁
-  -##### 
+- #### Procesual : [Repositorio De la Evaluacion Procesual](https://github.com/LuisAlvarezMedina2/Estructura-De-Datos/tree/main/HITO%202/Procesual)📁
+  - ##### Video : [Video Procesua Hito 2l](https://github.com/LuisAlvarezMedina2/Estructura-De-Datos/blob/main/HITO%202/Procesual/VideoProcesual.txt) 📺
+  - ##### Documento : [Presentacion](https://github.com/LuisAlvarezMedina2/Estructura-De-Datos/blob/main/HITO%202/Procesual/Procesual%20hito2.pdf)📄
 
